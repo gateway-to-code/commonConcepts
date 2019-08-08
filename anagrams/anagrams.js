@@ -16,7 +16,7 @@ you with the following example
   * var anagrams = allAnagrams('abc');
   * console.log(anagrams); // [ 'abc', 'acb', 'bac', 'bca', 'cab', 'cba' ]
 
-  * allAnagrams('apps'); // make sure for no duplicates
+  * allAnagrams('apps'); 
   * expected = ['apps', 'apsp', 'aspp', 'paps', 'pasp', 'ppas', 'ppsa', 'psap', 'pspa', 'sapp', 'spap', 'sppa'];
 
 from there you should be able to make some guessings about what an anagram is. Its probably a word that can be created
